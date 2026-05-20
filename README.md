@@ -1,2 +1,2 @@
-# home-example
+# html-example
 Пример простой веб-страницы
